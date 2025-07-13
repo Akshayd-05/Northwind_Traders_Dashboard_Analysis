@@ -47,7 +47,10 @@ This repository showcases an interactive **Tableau dashboard** developed using t
 
 Below is the full screenshot of the interactive dashboard:
 
-![Dashboard Screenshot](dashboard.png)
+![Northwind Traders Dashboard](Northwind_SS.png)
+![Northwind Traders Dashboard](Northwind_SS1.png)
+![Northwind Traders Dashboard](Northwind_SS2.png)
+![Northwind Traders Dashboard](Northwind_SS3.png)
 
 ## 🛠️ Tools & Technologies
 
