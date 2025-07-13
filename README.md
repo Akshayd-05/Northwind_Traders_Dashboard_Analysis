@@ -1,7 +1,5 @@
 # 📊 Northwind Traders Sales Dashboard
 
-![Northwind Traders Dashboard](Northwind_SS.png)
-
 ## About This Repository
 
 This repository showcases an interactive **Tableau dashboard** developed using the Northwind Traders dataset. The dashboard provides a comprehensive view of key business metrics, such as revenue, order volume, shipping cost, and top customers/products. It helps stakeholders monitor sales performance, identify trends, and make data-driven decisions.
@@ -46,10 +44,21 @@ This repository showcases an interactive **Tableau dashboard** developed using t
 ## 📸 Dashboard Screenshot
 
 Below is the full screenshot of the interactive dashboard:
-
 ![Northwind Traders Dashboard](Northwind_SS.png)
+
+### 📦 Order Details Tab
+This tab provides detailed insights into each order, including shipping method, order dates, and quantities.
+
 ![Northwind Traders Dashboard](Northwind_SS1.png)
+
+### 📋 Product Details Tab
+Analyze product-level performance, including categories, unit price, stock levels, and sales volume.
+
 ![Northwind Traders Dashboard](Northwind_SS2.png)
+
+### 👨‍💼 Employee Details Tab
+View employee-specific data such as sales performance, number of orders handled, and customer engagement.
+
 ![Northwind Traders Dashboard](Northwind_SS3.png)
 
 ## 🛠️ Tools & Technologies
