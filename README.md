@@ -1,6 +1,6 @@
 # 📊 Northwind Traders Sales Dashboard
 
-![Northwind Traders Dashboard](dashboard.png)
+![Northwind Traders Dashboard](Northwind_SS.png)
 
 ## About This Repository
 
